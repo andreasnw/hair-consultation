@@ -1,6 +1,6 @@
 import { Button } from "react-native";
 import { useRouter } from "expo-router";
-import List from "@/src/components/booking/List";
+import List from "@/src/components/recommendations/List";
 import { ThemedText } from "@/src/components/common/ThemedText";
 import { ThemedView } from "@/src/components/common/ThemedView";
 
